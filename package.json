@@ -3,6 +3,7 @@
   "description": "The monorepo for @nuxtjs/i18n",
   "license": "MIT",
   "private": true,
+  "version": "1.0.0",
   "contributors": [
     {
       "name": "Paul Gascou-Vaillancourt (@paulgv)"
